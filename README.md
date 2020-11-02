@@ -4,3 +4,6 @@ tugas 1
 
 tugas 2
 ![Screenshot (42)](https://user-images.githubusercontent.com/59351655/97839130-23140c80-1d14-11eb-9c54-ff27ee8658f1.png)
+
+tugas 3&4
+![Screenshot (45)](https://user-images.githubusercontent.com/59351655/97839203-476fe900-1d14-11eb-9d76-898d3d1281fe.png)
